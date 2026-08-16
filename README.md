@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📝 To-Do List Application
 
 ## 📌 Description
@@ -16,3 +17,6 @@ The To-Do List Application is a simple command-line project developed using Pyth
 - Visual Studio Code (VS Code)
 
 ## 📂 Project Structure
+=======
+# codsoft_task_1
+>>>>>>> 5d96fdc04aea66765b6677099dfce546120631b0
